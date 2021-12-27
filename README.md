@@ -5,7 +5,7 @@ the repository contains simple python scripts such as:
 - the multiplication table:
         Calculate and display the multiplication table for any integer
         
-- contor (convert_money):
+- cantor (convert_money):
         Convert and display the entered value into US dollars or Polish zloty
         
 - dogs age:
