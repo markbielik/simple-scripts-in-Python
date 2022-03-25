@@ -13,4 +13,3 @@ the repository contains simple python scripts such as:
         
 - fibonacci:
         Counting and displaying the Fibonacci sequence
-- 
