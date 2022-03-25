@@ -20,3 +20,6 @@ the repository contains simple python scripts such as:
         
  - palindrome:
         Checks if the entered word is a palindrome.
+        
+ - pesel:
+        Checks if the entered pesel number is correct.
