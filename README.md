@@ -17,3 +17,6 @@ the repository contains simple python scripts such as:
 - text censor:
         We give the word for censorship and the text in which we want to censor it. 
         The program gives you two text censorship results to choose from.
+        
+ - palindrome:
+        Checks if the entered word is a palindrome.
